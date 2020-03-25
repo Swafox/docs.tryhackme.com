@@ -7,7 +7,7 @@ sidebar_label: Student Discount
 ![Subscribing](https://i.imgur.com/JWmOSir.png)
 
 ## Getting the discount
-20% student discount is guaranteed to accounts created using a student e-mail address.
+20% student discount is guaranteed to every account created using a student e-mail address.
 Tryhackme supports all student e-mail addresses and automatically recognizes domains like **.edu** and **.ac.uk**
 
 ## Troubleshooting
